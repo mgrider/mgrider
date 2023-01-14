@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Martin 👋
 
-<!--
-**mgrider/mgrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My work, at least as of this writing, is primarily for 📱 iOS, written in Swift.
 
-Here are some ideas to get you started:
+- I have also worked on a lot of 🎮 _game projects_, although I consider myself mostly a hobbyist at this point. I'm primarily interested in 🧩 _action puzzle games_, and ♜ _tabletop games_, especially _abstract strategy_. My most recent game release was the [mobile version of Thrive](http://abstractpuzzle.com/thrive/), a board game that was published in physical form by [Adams Apple Games](https://adamsapplegames.com/thrive/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm very interested in ✨ open source ✨ projects for for games, especially written in Swift.
+
+- My github repos are pretty 🗑️ disorganized. Sorry about that!
+
+Other places you can find me on the internet:
+
+- My [gamedev blog](http://chesstris.com)
+
+- My [game studio](http://abstractpuzzle.com)
+
+- My [resume site](http://martingrider.name)
+
+- On mastodon: [@grid@mastodon.gamedev.place](https://mastodon.gamedev.place/@grid)
