@@ -4,7 +4,7 @@
 
 - I have also worked on a lot of 🎮 _game projects_, although I consider myself mostly a hobbyist at this point. I'm primarily interested in 🧩 _action puzzle games_, and ♜ _tabletop games_, especially _abstract strategy_. My most recent game release was the [mobile version of Thrive](http://abstractpuzzle.com/thrive/), a board game that was published in physical form by [Adams Apple Games](https://adamsapplegames.com/thrive/).
 
-- I'm very interested in ✨ open source ✨ projects for for games, especially written in Swift.
+- I'm very interested in ✨ open source ✨ projects for games, especially written in Swift.
 
 - My github repos are pretty 🗑️ disorganized. Sorry about that!
 
