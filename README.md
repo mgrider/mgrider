@@ -2,7 +2,7 @@
 
 - My work, at least as of this writing, is primarily for 📱 iOS, written in Swift.
 
-- I have also worked on a lot of 🎮 _game projects_, although I consider myself mostly a hobbyist at this point. I'm primarily interested in 🧩 _action puzzle games_, and ♜ _tabletop games_, especially _abstract strategy_. My most recent game release was the [mobile version of Thrive](http://abstractpuzzle.com/thrive/), a board game that was published in physical form by [Adams Apple Games](https://adamsapplegames.com/thrive/).
+- I have also worked on a lot of 🎮 _game projects_, although I consider myself mostly a hobbyist at this point. I'm primarily interested in 🧩 _action puzzle games_, and ♜ _tabletop games_, especially _abstract strategy_. My most recent game release was a version of an abstract strategy game I designed called [Blither](http://abstractpuzzle.com/blither/) for iOS. A year or so before that I released a game called [Thrive](http://abstractpuzzle.com/thrive/) for iOS and Android, which is another game I designed that was published in physical form by [Adams Apple Games](https://adamsapplegames.com/thrive/).
 
 - I'm very interested in ✨ open source ✨ projects for games, especially written in Swift.
 
