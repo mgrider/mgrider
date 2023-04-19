@@ -16,4 +16,4 @@ Other places you can find me on the internet:
 
 - My [resume site](http://martingrider.name)
 
-- On mastodon: [@grid@mastodon.gamedev.place](https://mastodon.gamedev.place/@grid)
+- On mastodon: [@grid@mastodon.gamedev.place](https://mastodon.gamedev.place/@grid) & [https://hachyderm.io/@grid](https://hachyderm.io/@grid)
