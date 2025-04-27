@@ -36,7 +36,7 @@ I'm very interested in open source projects for games, especially packages and p
 
 ### Hexagon Grid Generator
 
-I built app called [Hexagon Grid Generator](https://github.com/mgrider/skhexgrid) initially as an example project for the excellent open source hexagon-drawing library, [hex-grid](https://github.com/fananek/hex-grid). It's built with SwiftUI and SpriteKit, runs on iOS, iPadOS, and macOS, and makes it easy to draw hexagonal grids. You can read more about it in my blog post, [Introducing the Hexagon Grid Generator](http://chesstris.com/2023/07/09/introducing-the-hexagon-grid-generator/).
+I built an app called [Hexagon Grid Generator](https://github.com/mgrider/skhexgrid) initially as an example project for the excellent open source hexagon-drawing library, [hex-grid](https://github.com/fananek/hex-grid). It's built with SwiftUI and SpriteKit, runs on iOS, iPadOS, and macOS, and makes it easy to draw hexagonal grids. You can read more about it in my blog post, [Introducing the Hexagon Grid Generator](http://chesstris.com/2023/07/09/introducing-the-hexagon-grid-generator/).
 
 ## 💬 Contact me
 
